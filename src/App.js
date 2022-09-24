@@ -6,7 +6,7 @@ const bookDB = {
   javascript: [
     { name: "Eloquent JavaScript", rating: "4/5" },
     { name: "You Don't Know JS", rating: "3.5/5" },
-    { name: "JavaScript: The Good Parts", rating: "4.5/5" },
+    // { name: "JavaScript: The Good Parts", rating: "4.5/5" },
     { name: "JavaScript Data Structures and Algorithms: An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals", rating: "4.3/5" }
   
   ],
